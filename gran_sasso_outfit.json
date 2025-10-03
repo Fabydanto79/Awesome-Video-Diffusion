@@ -1,0 +1,71 @@
+{
+  "brand": "Gran Sasso",
+  "collection": "Neutral Tones Collection",
+  "items": [
+    {
+      "id": "cap",
+      "name": "Baseball Cap",
+      "type": "accessory",
+      "color": "beige",
+      "material": "cotton",
+      "description": "Classic beige baseball cap with adjustable strap"
+    },
+    {
+      "id": "sweater",
+      "name": "Cable Knit Turtleneck",
+      "type": "knitwear",
+      "color": "cream",
+      "material": "wool blend",
+      "neckline": "turtleneck",
+      "pattern": "cable knit with diamond motifs",
+      "description": "Elegant cream-colored turtleneck sweater with intricate cable knit pattern and diamond motifs on the front panel"
+    },
+    {
+      "id": "jacket",
+      "name": "Bomber Jacket",
+      "type": "outerwear",
+      "color": "camel",
+      "material": "wool blend",
+      "style": "bomber",
+      "closure": "button-up",
+      "description": "Classic camel-colored bomber jacket with ribbed cuffs and hem"
+    },
+    {
+      "id": "trousers",
+      "name": "Tailored Trousers",
+      "type": "bottoms",
+      "color": "beige",
+      "material": "cotton blend",
+      "fit": "tailored",
+      "description": "Well-fitted beige trousers with clean lines"
+    },
+    {
+      "id": "sneakers",
+      "name": "White Leather Sneakers",
+      "type": "footwear",
+      "color": "white",
+      "material": "leather",
+      "accent_color": "beige",
+      "description": "Clean white leather sneakers with subtle beige accents"
+    },
+    {
+      "id": "watch",
+      "name": "Minimalist Watch",
+      "type": "accessory",
+      "color": "gold",
+      "material": "metal",
+      "strap_color": "beige",
+      "description": "Elegant gold-toned watch with beige leather strap"
+    },
+    {
+      "id": "sunglasses",
+      "name": "Classic Sunglasses",
+      "type": "accessory",
+      "color": "black",
+      "frame_style": "wayfarer",
+      "description": "Timeless black wayfarer-style sunglasses"
+    }
+  ],
+  "color_palette": ["beige", "cream", "camel", "white", "gold", "black"],
+  "style_notes": "Cohesive neutral-toned outfit perfect for casual elegance. The turtleneck serves as the centerpiece with its sophisticated cable knit design."
+}
